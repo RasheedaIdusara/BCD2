@@ -1,3 +1,7 @@
+📚 Business Component Development II (BCD II)
+
+A Jakarta EE–based enterprise application developed as part of the Business Component Development II (BCD II) module, focusing on the following enterprise development concepts:
+
 ## 🚀 Topics Covered
 
 ### 🔄 Transaction Management
