@@ -1,55 +1,55 @@
-📚 Business Component Development II (BCD II)
+## 🚀 Topics Covered
 
-A Jakarta EE–based enterprise application developed as part of the Business Component Development II (BCD II) module, focusing on the following enterprise development concepts:
+### 🔄 Transaction Management
+- Database Transactions
+- ACID Properties
+- CMT (Container-Managed Transactions)
+- BMT (Bean-Managed Transactions)
+- Rollback & Commit
 
-🚀 Topics Covered
+### ⏱️ EJB Timer Service
+- Scheduled Tasks
+- `@Schedule`
+- `@Timeout`
+- Automatic Timers
+- Programmatic Timers
 
-🔄 Transaction Management
-Database Transactions
-ACID Properties
-CMT & BMT
-Rollback & Commit
+### 🌐 Web Services
+- REST API (JAX-RS)
+- JSON / XML Data Exchange
 
-⏱️ EJB Timer Service
-Scheduled Tasks
-@Schedule
-@Timeout
-Automatic & Programmatic Timers
+### 🛠️ Interceptors
+- Method Invocation Interception
+- Logging
+- Security
+- Performance Monitoring
+- `@AroundInvoke`
 
-🌐 Web Services
-REST API (JAX-RS)
-JSON / XML Data Exchange
+### 💉 CDI
+- Contexts and Dependency Injection
 
-🧩 Interceptors
-Method Invocation Interception
-Logging
-Security
-Performance Monitoring
-@AroundInvoke
+### 🔐 Security
+- Authentication
+- Authorization
+- Roles
+- `@RolesAllowed`
+- Securing EJB & Web Applications
 
-💉 CDI (Contexts and Dependency Injection)
+### ⚠️ EJB Exception Handling
+- Application Exceptions
+- System Exceptions
+- Custom Exceptions
+- Rollback Handling
 
-🔐 Security
-Authentication
-Authorization
-Roles
-@RolesAllowed
-Securing EJB & Web Applications
+### 📦 EJB Packaging & Deployment
+- JAR
+- WAR
+- EAR
+- Maven Packaging
+- Payara / GlassFish Deployment
 
-⚠️ EJB Exception Handling
-Application Exceptions
-System Exceptions
-Custom Exceptions
-Rollback Handling
+---
 
-📦 EJB Packaging & Deployment
-JAR
-WAR
-EAR
-Maven Packaging
-Payara / GlassFish Deployment
+## 👨‍💻 Author
 
-👨‍💻 Author
-Rasheeda Idusara
-
-Business Component Development II — BCD II
+**Rasheeda Idusara**
