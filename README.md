@@ -50,7 +50,6 @@ Maven Packaging
 Payara / GlassFish Deployment
 
 👨‍💻 Author
-
 Rasheeda Idusara
 
 Business Component Development II — BCD II
